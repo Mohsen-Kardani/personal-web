@@ -44,5 +44,11 @@ and give you contact information so you can connect with them. The website uses 
 
 1. Clone the repository to your local machine.
 
-   ```bash
-https://github.com/Mohsen-Kardani/personal-web.git
+  ```bash
+
+      <https://github.com/Mohsen-Kardani/personal-web.git>
+        
+   ```
+
+ 
+
